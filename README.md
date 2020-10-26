@@ -18,3 +18,6 @@ https://repl.it/@18Pa1A0502Adaba/WeatherBot
 
 ### Block Diagram :
 ![Calculator-Weather](https://user-images.githubusercontent.com/68616514/97140910-a9b07300-1783-11eb-881c-02c8c8980d19.png)
+
+### Referred : 
+#####   W3 Schools
