@@ -17,4 +17,4 @@ https://youtu.be/6DWG0F5p9c4
 https://repl.it/@18Pa1A0502Adaba/WeatherBot
 
 ### Block Diagram :
-![Calculator-Weather](https://user-images.githubusercontent.com/68616514/97140658-1d9e4b80-1783-11eb-95c1-64a8cbd70c03.png)
+![Calculator-Weather](https://user-images.githubusercontent.com/68616514/97140910-a9b07300-1783-11eb-881c-02c8c8980d19.png)
