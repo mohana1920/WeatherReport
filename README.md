@@ -3,12 +3,12 @@
 2. A.John Prasad (Register No : 18PA1A0402)
 3. A.PradeepNaidu (Register No : 18PA1A0404)
 
-### Objective Of this ChatBot : 
+### Objective : 
   - This Chatbot provides weather report for the user specified city.
   - It also performs calculations by evaluating the expressions given by the user.
   
-### Description about the Chatbot : 
-#### Firstly, the chatbot introduces itself and asks for the name of the user and then greets the user.Secondly, it provides list of options to the user and asks for the choice of the user.If the user selects the calculation option then it takes the expression from the user to evaluate and then it produces the final result of the expression.Otherwise, if user selects weather report option then it asks for cityname from the user and gives the weather report for the user specified city.If the user selects the last option then the bot gets ended.
+### Description : 
+#### In this design we have mainly four pages.First page welcomes the user and asks for name of user, when user provides his/her name and clicking on the submit button it takes user to second page. In second page user is provided with two options i.e., Calculator and Weather. If the user chooses calculator it takes user to calculator page and allows user to do calculations and if needed he can come back to previous page using "Go back" button.On the other hand if user chooses weather option in second page it takes user to weather report page where user needs to provide city name and it provides weather report of that city.
 
 ### Demo Vedio :
 https://youtu.be/6DWG0F5p9c4
