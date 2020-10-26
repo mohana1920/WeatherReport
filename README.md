@@ -8,7 +8,7 @@
   - It also performs calculations by evaluating the expressions given by the user.
   
 ### Description : 
-#### In this design we have mainly four pages.First page welcomes the user and asks for name of user, when user provides his/her name and clicking on the submit button it takes user to second page. In second page user is provided with two options i.e., Calculator and Weather. If the user chooses calculator it takes user to calculator page and allows user to do calculations and if needed he can come back to previous page using "Go back" button.On the other hand if user chooses weather option in second page it takes user to weather report page where user needs to provide city name and it provides weather report of that city.
+#### In this design we have mainly four pages.First page welcomes the user and asks for name of user, when user provides his/her name and by clicking on the submit button it takes user to the second page. In second page, user is provided with two options i.e., Calculator and Weather. If the user chooses calculator it takes user to calculator page and allows user to do calculations and if needed he can come back to previous page using "Go back" button.Similarly, on the other hand if user chooses weather option in second page it takes user to weather report page where user needs to provide city name and it provides weather report of that city.
 
 ### Demo Vedio :
 https://youtu.be/6DWG0F5p9c4
